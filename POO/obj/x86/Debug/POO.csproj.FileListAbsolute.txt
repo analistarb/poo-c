@@ -1,0 +1,12 @@
+C:\Users\Workstation\Desktop\POO\POO\POO\bin\Debug\POO.exe
+C:\Users\Workstation\Desktop\POO\POO\POO\bin\Debug\POO.pdb
+C:\Users\Workstation\Desktop\POO\POO\POO\obj\x86\Debug\POO.exe
+C:\Users\Workstation\Desktop\POO\POO\POO\obj\x86\Debug\POO.pdb
+G:\Workstation\Documentos\++Atualização Mercado de Trabalho\POO\POO\POO\obj\x86\Debug\POO.exe
+G:\Workstation\Documentos\++Atualização Mercado de Trabalho\POO\POO\POO\obj\x86\Debug\POO.pdb
+G:\Workstation\Documentos\++Atualização Mercado de Trabalho\POO\POO\POO\bin\Debug\POO.exe
+G:\Workstation\Documentos\++Atualização Mercado de Trabalho\POO\POO\POO\bin\Debug\POO.pdb
+G:\Workstation\Documentos\+Atualização Mercado de Trabalho\02) Documentos\01) ASP.NET\01) C#\03) POO\POO\POO\obj\x86\Debug\POO.exe
+G:\Workstation\Documentos\+Atualização Mercado de Trabalho\02) Documentos\01) ASP.NET\01) C#\03) POO\POO\POO\obj\x86\Debug\POO.pdb
+C:\Users\Workstation\Desktop\Seleção! 3\01) DotNet\01) POO\01) C#\POO\obj\x86\Debug\POO.exe
+C:\Users\Workstation\Desktop\Seleção! 3\01) DotNet\01) POO\01) C#\POO\obj\x86\Debug\POO.pdb
